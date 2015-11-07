@@ -17,6 +17,6 @@ To compil just use in a terminal the command "gcc *.c -lgsl -lgslcblas -lm" in t
 Some functionality requier Gnulpot (http://www.gnuplot.info/) and ffmpeg (http://www.ffmpeg.org/).
  
 The program is under licensed GNU GPLv3 (see a copy at http://www.gnu.org/licenses/gpl-3.0.en.html or in the directory).
-It has been writting by E. Hingant (erwan@mat.ufcg.edu.br) and R. Yvinec (romain.yvinec@tours.inra.fr) between 2013 and 2015.
+It has been writting by E. Hingant (erwan 'at' mat.ufcg.edu.br) and R. Yvinec (romain.yvinec 'at' tours.inra.fr) between 2013 and 2015.
 
 E.H would thanks Fondecyt Grant 3130318 (Chile) and CAPES/IMPA (Brazil) for their support.
