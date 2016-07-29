@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+# StoBeDo v0.1 (c) 2016, E. Hingant and R. Yvinec
+# code and information available at http://github.com/ehingant/StoBeDo/
+
 import math as m
 import numpy as np
 import random
