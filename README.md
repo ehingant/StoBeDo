@@ -1,4 +1,4 @@
-# StoBeDo
+# StoBeDo v0.1
 Simulation of the Stochastic Becker-Döring equations
 
 This code is design to simulate the Stochastic Becker-Doring model.
