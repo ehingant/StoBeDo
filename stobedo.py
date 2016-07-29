@@ -4,10 +4,12 @@ import math as m
 import numpy as np
 import random
 
+# Rate function of coagulation
 def a(i):
 
 	return i
-
+	
+# Rate function of fragmentation
 def b(i):
 
 	return 1.
