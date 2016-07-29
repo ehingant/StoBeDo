@@ -15,3 +15,9 @@ The code needs is written in Python 2.7  (http://www.python.org/) and use matplo
 To use the program just launch python example.py in the directory with soure files.
 
 It has been writting by E. Hingant and R. Yvinec between 2013 and 2016.
+
+Linked at  <a href="https://zenodo.org/badge/latestdoi/19128/ehingant/StoBeDo"><img src="https://zenodo.org/badge/19128/ehingant/StoBeDo.svg" alt="10.5281/zenodo.59048"></a>
+
+
+
+
